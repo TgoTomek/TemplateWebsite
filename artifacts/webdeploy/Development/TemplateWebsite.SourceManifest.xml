@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="c:\users\t.synak\documents\visual studio 2013\Projects\TemplateWebsite\TemplateWebsite\obj\Release\Package\PackageTmp" />
+  <setAcl path="c:\users\t.synak\documents\visual studio 2013\Projects\TemplateWebsite\TemplateWebsite\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="c:\users\t.synak\documents\visual studio 2013\Projects\TemplateWebsite\TemplateWebsite\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
